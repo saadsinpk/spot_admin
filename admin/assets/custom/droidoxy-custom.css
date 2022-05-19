@@ -1,0 +1,50 @@
+.offer-description{
+    color: #777;
+    font-size: 15px;
+    line-height: 1.75rem;
+    padding-right: 10px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.offer-instructions{
+    color: #777;
+    font-size: 12px;
+    line-height: 1.5rem;
+    padding-right: 10px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.offer-title{
+    color: #666;
+    display: inline-block;
+    font-size: 16px;
+    padding-right: 10px;
+    font-weight: bold;
+    /* padding-bottom: 10px;
+    border-bottom: 1px solid #e2dccd; */
+    font-family: 'Open Sans', sans-serif;
+}
+
+.offer-points{
+    font-size: 32px;
+}
+
+.offer-points-title{
+    font-size: 18px;
+}
+
+.offer-image{
+    min-width: 10rem;
+}
+
+.offer-content{
+    padding-left: 1.5rem;
+}
+
+.no-offers-block{
+    text-align: center;
+    margin: 10rem 0 10rem 0;
+    line-height: 10rem;
+}
